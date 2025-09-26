@@ -11,7 +11,8 @@ Confusion Matrix
 <img width="3000" height="2250" alt="image" src="https://github.com/user-attachments/assets/ad1b7508-028c-4ac3-a021-a46d0953dd23" />
 
 Dataset folder
-<img width="1128" height="790" alt="image" src="https://github.com/user-attachments/assets/7b41303c-3937-4538-8dbf-dc239a7374b7" />
+<img width="1128" height="790" alt="image" src="https://github.com/user-attachments/assets/faa93192-3b06-4cab-bccb-b5c6dc6712f7" />
+
 
 
 Classes in dataset
@@ -23,3 +24,4 @@ Classes in dataset
 
 Yolov8s inference
 <img width="425" height="418" alt="image" src="https://github.com/user-attachments/assets/2770cddf-5926-48a4-a744-9f8ebbe417da" />
+
